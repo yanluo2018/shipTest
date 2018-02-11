@@ -1,0 +1,20 @@
+{
+  "name": "botstar",
+  "version": "1.0.0",
+  "description": "A test package for chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "botstar"
+  },
+  "author": "yan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "devDependencies": {}
+}
